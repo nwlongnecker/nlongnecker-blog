@@ -15,6 +15,7 @@
       {{ content }}
 
     </div>
+    {% include footer.html %}
     <script src="https://cdnjs.cloudflare.com/ajax/libs/anchor-js/5.0.0/anchor.min.js" crossorigin="anonymous"></script>
     <script>anchors.add();</script>
   </body>
