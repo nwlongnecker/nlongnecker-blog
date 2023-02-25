@@ -1,6 +1,5 @@
 # Driving Clarity
-_Engineering with Intention_
-
+^Engineering with Intention^
 This site contains a few gems of wisdom I have gleaned during my time as an engineer and engineering leader.
 
 ## Blog Entries
@@ -10,3 +9,5 @@ This site contains a few gems of wisdom I have gleaned during my time as an engi
 Nathan Longnecker
 
 LinkedIn: <https://www.linkedin.com/in/nlongnecker>
+
+Github: <https://github.com/nwlongnecker>
