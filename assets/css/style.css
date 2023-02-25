@@ -1,3 +1,5 @@
 footer span {
   display: block;
 }
+
+@import "jekyll-theme-primer";
