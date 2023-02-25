@@ -1,5 +1,6 @@
 # Driving Clarity
-^Engineering with Intention^
+_Engineering with Intention_
+
 This site contains a few gems of wisdom I have gleaned during my time as an engineer and engineering leader.
 
 ## Blog Entries
