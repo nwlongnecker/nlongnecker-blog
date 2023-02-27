@@ -1,5 +1,5 @@
 # Leading a Project
-_Last updated February 25, 2023_
+_Last updated February 27, 2023_
 
 This document describes a general process for how one might lead a project. This document is primarily geared towards engineers that are looking to lead one of their first few projects, but I have found the general approach to be useful to reference regardless of my current experience level.
 
@@ -9,7 +9,7 @@ The following are my recommended steps to follow when breaking down a project.
 ### Step 1: Identify use cases
 This is the **what** of the project - what are we trying to accomplish. The use cases should generally be provided by the person who conceived of the project, whether that be a stakeholder, product manager, tech lead, or engineer, though formalizing and documenting them may still be the project lead’s responsibility, and may require gathering input from multiple stakeholders.
 
-Note that use cases may have varying importance, some may be “nice to have” while others may be “the project isn’t worth doing if we don’t have this”. Remember to capture that in case you need to make tradeoffs later.
+Note that use cases may have varying importance, some may be “nice to have” while others may be “the project isn’t worth doing if we don’t have this.” Remember to capture that in case you need to make tradeoffs later.
 
 ### Step 2: Distill requirements
 Based on the use cases, establish a list of requirements for the project. The requirements should capture all the use cases, and may additionally capture technical constraints or design principles that you want to follow.
