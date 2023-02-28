@@ -53,10 +53,8 @@ A large part of leading a project is ensuring the other people working on the pr
 It's a lot easier to get general feedback about the approach from people based on a diagram than based on code, and easier to explore other options since we're not yet as invested in a particular approach.
 
 It's very helpful for your team to be involved from the start, before any code is written. That way, they understand the reasoning behind the approach. I've seen several projects fail or go off the rails because someone had a great idea, wrote a bunch of code to implement it, then either:
-
-Nobody else knew exactly what it did and it was too intimidating to learn about, so they were stuck being the sole owner of the project, and basically the only person who could maintain or update it.
-
-The team who picked it up didn't understand the whys of the approach and strayed from the initial requirements and design principles, so the project ended up not solving the initial use cases very well.
+* Nobody else knew exactly what it did and it was too intimidating to learn about, so they were stuck being the sole owner of the project, and basically the only person who could maintain or update it.
+* The team who picked it up didn't understand the whys of the approach and strayed from the initial requirements and design principles, so the project ended up not solving the initial use cases very well.
 
 ### Retrospectives
 Retrospectives are an important tool to reflect on what’s working and what should be changed, and for the project lead to receive feedback from the team about how things are going. Regular retrospectives can help capture learnings and course-correct if needed.
