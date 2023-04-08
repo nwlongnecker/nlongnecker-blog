@@ -1,5 +1,5 @@
 # Investing
-_Last updated April 3, 2023_
+_Last updated April 8, 2023_
 
 This page gives an overview of things to think about before investing your money.
 
@@ -28,6 +28,9 @@ Frequently, when people talk about investing, they are referring to investing in
 The stock market is risky. The value of stock assets can fluctuate wildly in relatively short amounts of time. However, the trend over the last hundred-plus years is that [over longer periods of time, the overall value of the stock market increases and beats inflation](https://www.macrotrends.net/1319/dow-jones-100-year-historical-chart).
 
 This trend makes the stock market an appealing long-term investment vehicle for many.
+
+## Timing
+It can be difficult to know when is the best time to put your money in. There have been several studies about the penalties and benefits about different investment strategies around trying to put money in at the best time to get the most bang for your buck, and the general consensus is: Time in the market beats timing the market. In other words, [invest your money as soon as you can, rather than waiting for the perfect moment, and you'll come out ahead.](https://www.schwab.com/learn/story/does-market-timing-work)
 
 ## Investment Strategies
 As mentioned earlier, diversification is a key part of investing to help mitigate the risk of some investments doing poorly. However, picking, purchasing, and maintaining a catalog of diverse individual stocks would be very time consuming. Fortunately, there exist investment products that are designed to handle this problem exactly: mutual funds and index funds.

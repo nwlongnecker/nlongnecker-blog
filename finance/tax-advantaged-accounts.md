@@ -11,7 +11,7 @@ Income taxes are generally assessed either:
 
 Understanding the above concepts is important for understanding the benefits of tax advantaged accounts.
 
-## Tax-advantaged accounts
+## Tax Advantaged Accounts
 Certain types of savings accounts are known as “tax-advantaged”, which means they allow you to avoid paying the income taxes in one or more of the cases listed in the previous section.
 
 There are four main types of tax-advantaged accounts that are relevant for most in the workforce, and this document will give an overview of each: 401k (retirement), IRA (retirement), HSA (healthcare), and 529 (education).
