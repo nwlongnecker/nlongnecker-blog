@@ -138,3 +138,26 @@ Below are some discussion questions to help get the conversation going:
   * Were they diverse in some ways but not in others?
 * What factors influence who you trust?
 * Do you have ideas about how you can limit your own bias?
+
+### Study finds 75 percent of workplace harassment victims experienced retaliation when they spoke up
+This is a roundtable discussion to get us thinking a bit more about equity and inclusion. This is one of several duplicate sessions, there is no need to attend more than one. For more information about what this is all about, see this confluence page: https://vistaprint.atlassian.net/wiki/spaces/~192627428/pages/2443674093/Equity+and+Inclusion+Roundtables
+
+Feel free to forward this meeting to anyone else who may be interested.
+
+Agenda:
+* Safe space & ground rules for discussion
+  * **This topic can be deeply personal for some, so please be mindful of that and do not put anyone on the spot. Make space for folks to share if they want to, but avoid asking if they've experienced X or Y.**
+  * Additionally, everyone should feel free to turn their camera off at any point during the discussion.
+* Read the article: https://www.vox.com/identities/2017/10/15/16438750/weinstein-sexual-harassment-facts (10-15 mins)
+  * Please mute yourself and turn off your video while reading the article. When you have finished, turn your video on.
+* Discussion in breakout rooms (remainder)
+
+Discussion questions:
+* What comments or statistics from the article stood out to or surprised you most?
+* Do you think some of the statistics in the article speak to even larger problems? If so, which ones? For example, "75% of harassment victims experienced retaliation when they spoke up" might suggest that speaking up about other injustices could also risk retaliation.
+  * Do you think some might find it difficult to talk about things like discrimination, disabilities, and/or mental health in the workplace for similar reasons?
+* The article paints the picture that companies are primarily focused on avoiding legal liability to avoid the millions that sexual harassment allegations can cost. What else could companies be doing to avoid these costs?
+* The article mentioned that when harassment is specifically defined, the number of people who reported experiencing it increased from 25% to 60%. Why do you think that is?
+* This article is focused on the US, but do you think it could be representative of work environments in other countries as well? Why or why not?
+* This article was written before covid and the rise of remote work. How do you think remote work impacts workplace harassment and the issues described in this article?
+
