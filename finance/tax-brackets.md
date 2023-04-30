@@ -26,15 +26,15 @@ If you will earn $1,000,000 over the course of ten years, and you could choose t
 
 #### $100,000 per year:
 
-15,213.50 + (100,000 - 89,075) * 0.24 = $17,835.50 per year
+This puts you in the 24% tax bracket, so (referencing the table above): 15,213.50 + (100,000 - 89,075) * 0.24 = $17,835.50 per year
 
 Which means you would pay a total of **$178,835 over 10 years**. Additionally, any additional income you had each year would be taxed at a 24% rate.
 
 #### $180,000 per year for 5 years, then $20,000 per year:
 
-34,647.50 + (180,000 - 170,050) * 0.32 = $37,831.50 per year
+$180,000 puts you in the 32% tax bracket, so (referencing the table above): 34,647.50 + (180,000 - 170,050) * 0.32 = $37,831.50 per year
 
-1,027.50 + (20,000 - 10,275) * 0.12 = $2,194.50 per year
+$20,000 puts you in the 12% tax bracket, so (referencing the table above): 1,027.50 + (20,000 - 10,275) * 0.12 = $2,194.50 per year
 
 In this case you would pay a total of **$200,130 over 10 years**. Additionally, any additional income you had each year would be taxed at a 32% rate for the first 5 years, and 12% rate after that.
 

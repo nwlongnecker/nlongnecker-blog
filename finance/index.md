@@ -5,7 +5,7 @@ This page and subpages are dedicated to various financial questions that a few o
 
 **Disclaimer**: Finance, retirement savings, and minimizing one's tax burden is a very complex area. There are many nuances and exceptions to the general statements in these documents. My goal is not to provide a comprehensive guide (there are plenty of guides out there that already do that for specific topics), but rather to frame the problem space and provide a good enough overview to for folks who are unfamiliar with the space to feel confident enough to start asking the right questions and do their own research.
 
-In these documents, I attempt to distill the main concepts to make it easy to understand. To simplify things, all tax numbers and contribution limits I use as examples are for single filers, since picking one to use consistently helps to simplify things document.
+In these documents, I attempt to distill the main concepts to make it easy to understand. To simplify things, all tax numbers and contribution limits I use as examples are for single filers, since picking one to use consistently helps to simplify the documents.
 
 Documents:
 * [Tax Brackets](./tax-brackets.md)
