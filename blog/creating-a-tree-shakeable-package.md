@@ -1,4 +1,4 @@
-# Creating a tree-shakeable package
+# Creating a Tree-Shakeable Package
 _Under Construction - last updated February 27, 2023_
 
 Configuring a project to tree shake properly is surprisingly difficult. This page attempts to give a conceptual overview of what’s actually happening when tree shaking and how to set it up to realize some bundle size savings.
