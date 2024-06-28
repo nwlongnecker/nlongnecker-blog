@@ -1,20 +1,17 @@
 # Load Testing
-_Under Construction - last updated February 27, 2023_
+_Under Construction - Last updated June 28, 2024_
 
 This page covers things to think about when running a load test.
 
-“Standard” load testing has the goal of ensuring your service can handle a specified amount of load. This is typically done as part of our annual holiday prep, to ensure we’re confident the system can handle expected holiday traffic. This is extremely important to validate, but still leaves a few questions unanswered that are important for service owners to answer:
-
-How close are we to the limit of what the service can handle?
-
-Would the service behave differently under extended periods of load (days, weeks)?
-
-What is the service’s constrained resource? Could the service get better performance (more load, faster response time) with some configuration tweaks?
+“Standard” load testing has the goal of ensuring your service can handle a specified amount of load. It's a good idea to do this sort of testing annually, particularly if your service has a period of higher traffic (eg. holiday load), to ensure we’re confident the system can handle the expected traffic. This is extremely important to validate, but still leaves a few questions unanswered that are important for service owners to answer:
+* How close are we to the limit of what the service can handle?
+* Would the service behave differently under extended periods of load (days, weeks)?
+* What is the service’s constrained resource? Could the service get better performance (more load, faster response time) with some configuration tweaks?
 
 This page will cover the questions to ask yourself when running a standard load test, then talk through additional things that can be done to find answers to the above questions.
 
 How much load?
-The first thing to determine is how much load your service expects for holiday. A good rule of thumb is that site traffic will increase 3-4x during holiday, relative to standard traffic levels. When checking traffic on your service:
+The first thing to determine is how much load your service expects. A good rule of thumb is that site traffic will increase 3-4x during holiday, relative to standard traffic levels. When checking traffic on your service:
 
 Our traffic varies wildly over the course of a day and depending on the day of the week, so generally you want to look over a longer period of time (eg. a week) to find peak traffic levels. Ensure you’re looking at the number of requests per minute - if you amortize the number of requests in an hour or a day you may miss spikes. Your service needs to be able to handle the highest traffic spike we might see during holiday - not just the average number of requests per day (which would be far lower).
 

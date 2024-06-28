@@ -1,5 +1,5 @@
 # When to Rearchitect a Component
-_Under Construction - last updated February 27, 2023_
+_Last updated February 27, 2023_
 
 Identify any user stories that are difficult or impossible to achieve with the current architecture.
 
