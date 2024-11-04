@@ -1,5 +1,5 @@
 # Creating a Tree-Shakeable Package
-_Under Construction - last updated February 27, 2023_
+_Last updated February 27, 2023_
 
 Configuring a project to tree shake properly is surprisingly difficult. This page attempts to give a conceptual overview of what’s actually happening when tree shaking and how to set it up to realize some bundle size savings.
 
@@ -18,13 +18,13 @@ The general flow would look something like this:
 
 Let’s zoom in on step two, the package build. This is, technically, optional. You can put whatever you want in an npm package. However, if you want to use the latest development tools, and you want it to be easily consumable, you will probably want to have a build step to make the outputs of your package look somewhat standard. This means:
 * If you’re using typescript, you’ll need to compile that typescript to Javascript, and likely also generate and include your type declaration files in case any of your consumers are using typescript.
-* If you’re using es6 syntax (import { foo } from ‘bar';), you need to transpile that into commonjs (require('foo')), for compatibility with older frameworks (this is still the official standard).
+* If you’re using es6 syntax (`import { foo } from ‘bar';`), you need to transpile that into commonjs (`require('foo')`), for compatibility with older frameworks (this is still the official standard).
 * If you want your package to be tree shakeable, you also need to include an esm version of your package alongside the commonjs (cjs) bundle.
 * Depending on how your package is intended to be consumed, you may choose to run tree shaking and bundling at this time. This is not always optimal. In many cases, this will cause the consuming page to end up with a larger bundle than if you’d left tree shaking to be done in step 5 by the consuming page’s bundler.
   * Tree shaking at this time means your bundler will traverse your app tree starting from your entry point (index.js, usually), and everything it references, including dependencies (** by default, you can configure the dependencies to be excluded), and puts it in a bundle. However, that bundle cannot then be tree shaken again by the next pass (in step 5), tree shaking in step 2 prevents the page from excluding parts of the package it doesn’t need.
 
 In Step 5, assuming it is configured to do so, the bundler will attempt to tree shake out any dead code. Several things must be managed properly for it to do so successfully:
-* The page must include code from the package using the import { foo } from "bar" syntax. Statements like import * from "bar", while convenient, will prevent tree shaking, because you’re signaling to the bundler that you need everything in that package. require("bar") will also prevent tree shaking.
+* The page must include code from the package using the `import { foo } from "bar"` syntax. Statements like `import * from "bar"`, while convenient, will prevent tree shaking, because you’re signaling to the bundler that you need everything in that package. `require("bar")` will also prevent tree shaking.
 * The package must have been properly configured for tree shaking.
   * Must export an esm version of the package, with a module entry in package.json pointing to it.
   * The esm version of the package should be split into discrete chunks, not all bundled into a single file. Smaller chunks means more granular tree shaking, and therefore larger savings. Usually this means that you want to preserve the original file structure of the module in the npm package using the preserveModule setting in webpack or rollup (assuming you use one of those to build the package before publishing).
