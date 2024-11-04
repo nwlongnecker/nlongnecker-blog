@@ -1,5 +1,5 @@
 # Continuous Feedback
-_Under Construction - Last updated February 27, 2023_
+_Last updated February 27, 2023_
 
 Feedback is an important part of both personal and professional growth. This document contains my thoughts around the goals of feedback and a process that I've found to be effective to encourage a culture of continuous feedback.
 

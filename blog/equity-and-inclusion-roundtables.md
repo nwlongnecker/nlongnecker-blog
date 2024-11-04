@@ -1,7 +1,7 @@
 # Equity and Inclusion Roundtables
-_Under Construction - last updated February 27, 2023_
+_Last updated February 27, 2023_
 
-Equity and Inclusion Roundtables are an initiative I’ve started within Foundations Technology Domain as a way to prompt thinking and discussion about equity and inclusion and to raise awareness about challenges that minority groups may encounter, since I believe that the best way to foster a diverse, equitable, and inclusive environment is through equitable and inclusive people who attract and welcome all people and ideas.
+Equity and Inclusion Roundtables are an initiative I started when I worked at Vista as a way to prompt thinking and discussion about equity and inclusion and to raise awareness about challenges that minority groups may encounter, since I believe that the best way to foster a diverse, equitable, and inclusive environment is through equitable and inclusive people who attract and welcome all people and ideas.
 
 ### Why equity and inclusion roundtables? Don’t we also care about diversity?
 Yes, we also care about diversity. However, the name “Equity and Inclusion Roundtables” reflects the goal of this initiative. This initiative’s goal is to focus on individuals and make change at the individual level by improving awareness and therefore improving our micro-interactions with each other. Individuals have everything to do with the inclusiveness and equitability of a team. Individuals have less of a say in the diversity of their team. Diversity can be mandated by leadership via the hiring pipeline. Making improvements to diversity is equally important as making changes to equity and inclusion, but requires a different approach, different audience, and different goals.
